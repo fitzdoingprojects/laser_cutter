@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name laser_interface-cache)(type Legacy)(uri ${KIPRJMOD}/laser_interface-cache.lib)(options "")(descr ""))
+  (lib (name laser_interface)(type Legacy)(uri ${KIPRJMOD}/symbols/laser_interface.lib)(options "")(descr ""))
+)
